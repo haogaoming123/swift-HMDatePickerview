@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AE15B4AE1FC6CA8D008EF215 /* 111.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AE15B4AD1FC6CA8D008EF215 /* 111.jpeg */; };
 		AE9939BC1FC6C81D008595FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9939BB1FC6C81D008595FF /* AppDelegate.swift */; };
 		AE9939BE1FC6C81D008595FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9939BD1FC6C81D008595FF /* ViewController.swift */; };
 		AE9939C11FC6C81D008595FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE9939BF1FC6C81D008595FF /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AE15B4AD1FC6CA8D008EF215 /* 111.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 111.jpeg; sourceTree = "<group>"; };
 		AE9939B81FC6C81D008595FF /* DataPickerViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DataPickerViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE9939BB1FC6C81D008595FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE9939BD1FC6C81D008595FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		AE9939AF1FC6C81D008595FF = {
 			isa = PBXGroup;
 			children = (
+				AE15B4AD1FC6CA8D008EF215 /* 111.jpeg */,
 				AE9939BA1FC6C81D008595FF /* DataPickerViewDemo */,
 				AE9939B91FC6C81D008595FF /* Products */,
 			);
@@ -129,6 +132,7 @@
 				AE9939C61FC6C81D008595FF /* LaunchScreen.storyboard in Resources */,
 				AE9939C31FC6C81D008595FF /* Assets.xcassets in Resources */,
 				AE9939C11FC6C81D008595FF /* Main.storyboard in Resources */,
+				AE15B4AE1FC6CA8D008EF215 /* 111.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
